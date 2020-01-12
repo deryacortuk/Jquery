@@ -1,7 +1,6 @@
 # jQuery 
 **jQuery** is an open source JavaScript library that simplifies the interactions between an HTML/CSS document, or more precisely the Document Object Model (DOM), and JavaScript.  
 Elaborating the terms, jQuery simplifies HTML document traversing and manipulation, browser event handling, DOM animations, Ajax interactions, and cross-browser JavaScript development.  
-**Note:**  The only library available today that meets the needs of both designer types and programmer types is jQuery.
 
 **Why jQuery?**  
 Some of the key points which supports the answer for why to use jQuery:
